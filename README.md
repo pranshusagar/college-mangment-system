@@ -84,7 +84,7 @@ values(2001,1,202,'2025-06-23'),
 Updating the data
 
 ```
-Update students set name ='Naved Mansoori' where StudentID = 2;
+Update students set name ='Pranshu Sagar' where StudentID = 2;
 ```
 
 Deleting the data
